@@ -12,5 +12,6 @@ public class Class1
 		System.out.println("te1-p1");
 		System.out.println("te1-p2");
 		System.out.println("c1p2");		
+		System.out.println("c1p3");
 	}
 }
